@@ -23,6 +23,7 @@ export default function Home() {
               name={car.name}
               price={car.price}
               description={car.description}
+              ctaText={car.ctaText}
               action={() => alert("Are you sure?")}
             />
           );

@@ -12,7 +12,8 @@
       "name": "Hyundal",
       "price": "$200 Milions",
       "description": "This a short description of Hyundal",
-      "image": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1562247470/autoexpress/2019/03/new-tucson-n-line-6.jpg"
+      "image": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1562247470/autoexpress/2019/03/new-tucson-n-line-6.jpg",
+      "ctaText": "Out of stock"
     },
     {
       "id": "3",
@@ -26,7 +27,8 @@
       "name": "Rolls-Royce Phantom",
       "price": "$200 Milions",
       "description": "This a short description of Rolls-Royce Phantom",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/2024-rolls-royce-phantom-102-64bad70ba7661.jpg?crop=0.498xw:0.446xh;0.300xw,0.332xh&resize=640:*"
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2024-rolls-royce-phantom-102-64bad70ba7661.jpg?crop=0.498xw:0.446xh;0.300xw,0.332xh&resize=640:*",
+      "ctaText": "Out of stock"
     }
   ]
 }
